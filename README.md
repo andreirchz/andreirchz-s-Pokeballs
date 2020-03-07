@@ -6,7 +6,7 @@ Do you have a suggestion? https://github.com/andreirchz/andreirchz-s-Pokeballs/i
 ## Useful Links
 [andreirchz on SpigotMc](https://www.spigotmc.org/members/andreirchz.889692/)
 
-[SpigotMc Plugin Page](https://www.spigotmc.org/)
+[andreirchz's Pokeballs [Free ⭐ 1.8-1.14.4]  on SpigotMc](https://www.spigotmc.org/)
 
 [Github Profile](https://www.spigotmc.org/)
 
